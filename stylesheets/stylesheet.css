@@ -69,8 +69,8 @@ header {
 }
 
 header h1 {
-  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 48px; font-weight: 600;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 40px; font-weight: 600;
   line-height: 1.2;
   color: #303030;
   letter-spacing: -1px;
@@ -165,32 +165,6 @@ a.button span {
   margin-right: 0;
 }
 
-code, pre {
-  margin-bottom: 30px;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
-  font-size: 14px;
-  color: #222;
-}
-
-code {
-  padding: 0 3px;
-  background-color: #f2f2f2;
-  border: solid 1px #ddd;
-}
-
-pre {
-  padding: 20px;
-  overflow: auto;
-  color: #f2f2f2;
-  text-shadow: none;
-  background: #303030;
-}
-pre code {
-  padding: 0;
-  color: #f2f2f2;
-  background-color: #303030;
-  border: none;
-}
 
 ul, ol, dl {
   margin-bottom: 20px;
@@ -234,7 +208,6 @@ td {
 form {
   padding: 20px;
   background: #f2f2f2;
-
 }
 
 
@@ -255,13 +228,13 @@ h3 {
   margin-bottom: 8px;
   font-size: 18px;
   font-weight: bold;
-  color: #505050;
+  color: #989898;
 }
 
 h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #303030;
+  color: #929292;
 }
 
 h5 {
