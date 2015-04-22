@@ -241,7 +241,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 h1 {
-  font-size: 32px;
+  font-size: 30px;
 }
 
 h2 {
@@ -255,7 +255,7 @@ h3 {
   margin-bottom: 8px;
   font-size: 18px;
   font-weight: bold;
-  color: #727272;
+  color: #505050;
 }
 
 h4 {
